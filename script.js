@@ -1,7 +1,7 @@
 (function() {
     // Configuration
-    const BIRTHDAY_MONTH = 2;    // March (0-index: 0=Jan, 1=Feb, 2=Mar)
-    const BIRTHDAY_DAY = 30;      // Change to actual birthday
+    const BIRTHDAY_MONTH = 3;    // March (0-index: 0=Jan, 1=Feb, 2=Mar)
+    const BIRTHDAY_DAY = 0;      // Change to actual birthday
     const FRIEND_NAME = "Laiba";
     
     let isBirthday = false;
